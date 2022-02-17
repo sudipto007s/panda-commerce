@@ -19,3 +19,41 @@ margin-bottom: 60px;
     padding: 9px 25px;
     cursor: pointer;
 }
+.cat1, .cat2, .cat3 {
+    padding: 10px 30px;
+    border-radius: 8px;
+}
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: orchid;
+}
+.cat3{
+    background-color: rgb(110, 110, 194);
+}
+.catagories h1{
+color: rgb(255, 255, 255);
+}
+.catagories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    border-radius: 10px ;
+    box-shadow: 5px 5px 10px lightblue;
+}
+.card-footer{
+    background-color: rgb(255, 255, 255);
+    border-top:none;
+}
+#Contact{
+    height: 300px;
+}
+#Contact h5{
+    color: gray;
+}
+footer{
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
